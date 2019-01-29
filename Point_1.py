@@ -1,5 +1,6 @@
 #1st
-#3rd
+#2nd
+#3
 import math
 class Point:
     def __init__(self, x=0.0, y=0.0):
