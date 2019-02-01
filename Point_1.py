@@ -4,7 +4,7 @@
 #m-github
 #n2
 #bran-n3
-# local n2-1
+# local n2
 
 import math
 class Point:
